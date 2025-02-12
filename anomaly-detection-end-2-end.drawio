@@ -260,7 +260,7 @@
         <mxCell id="XYrmjyMtkqVw2D4ztKHV-3" value="3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="950" y="153" width="40" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="XYrmjyMtkqVw2D4ztKHV-4" value="Should all scored data be saved to feature store" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="XYrmjyMtkqVw2D4ztKHV-4" value="Data management needs for scored data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="353" y="480" width="148" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XYrmjyMtkqVw2D4ztKHV-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.145;entryY=0;entryDx=0;entryDy=4.35;entryPerimeter=0;" edge="1" parent="1" source="vt0tjYcvA5wgolJuAkYE-11" target="vt0tjYcvA5wgolJuAkYE-10">
@@ -269,7 +269,7 @@
         <mxCell id="XYrmjyMtkqVw2D4ztKHV-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/question-mark-circle-128.png" vertex="1" parent="1">
           <mxGeometry x="872" y="345" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XYrmjyMtkqVw2D4ztKHV-7" value="Should all scored data be saved to feature store" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="XYrmjyMtkqVw2D4ztKHV-7" value="Data management needs for feature store" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="818" y="395" width="148" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XYrmjyMtkqVw2D4ztKHV-9" value="Promote&lt;div&gt;Model&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
@@ -342,6 +342,57 @@
               <mxPoint x="90" y="305" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="XYrmjyMtkqVw2D4ztKHV-29" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/question-mark-circle-128.png;imageBackground=none;imageBorder=light-dark(#ca1616, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="1266" y="388" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XYrmjyMtkqVw2D4ztKHV-30" value="How applicable is SageMaker Model Registry for Spark EMR models" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1337" y="390" width="148" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XYrmjyMtkqVw2D4ztKHV-31" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/question-mark-circle-128.png" vertex="1" parent="1">
+          <mxGeometry x="1266" y="442" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XYrmjyMtkqVw2D4ztKHV-32" value="Orchestration for A" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1337" y="447" width="148" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XYrmjyMtkqVw2D4ztKHV-33" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;A&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="51" width="53" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="XYrmjyMtkqVw2D4ztKHV-36" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;B&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1137" y="51" width="53" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="XYrmjyMtkqVw2D4ztKHV-37" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/question-mark-circle-128.png" vertex="1" parent="1">
+          <mxGeometry x="1266" y="493" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XYrmjyMtkqVw2D4ztKHV-38" value="Orchestration for B" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1337" y="498" width="148" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XYrmjyMtkqVw2D4ztKHV-39" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/question-mark-circle-128.png" vertex="1" parent="1">
+          <mxGeometry x="312" y="475" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XYrmjyMtkqVw2D4ztKHV-40" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/question-mark-circle-128.png;imageBackground=none;imageBorder=light-dark(#ca1616, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="24" y="-142" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XYrmjyMtkqVw2D4ztKHV-41" value="What are the projected daily inference volumes?" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="95" y="-140" width="148" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XYrmjyMtkqVw2D4ztKHV-42" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/question-mark-circle-128.png;imageBackground=none;imageBorder=light-dark(#ca1616, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="1266" y="551" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XYrmjyMtkqVw2D4ztKHV-43" value="Would this workload be better managed by SageMaker Batch Transform" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1337" y="553" width="148" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XYrmjyMtkqVw2D4ztKHV-44" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/question-mark-circle-128.png;imageBackground=none;imageBorder=light-dark(#ca1616, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="1266" y="627" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XYrmjyMtkqVw2D4ztKHV-45" value="Are the models available with Spark good enough to anomaly detection?" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1337" y="629" width="148" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XYrmjyMtkqVw2D4ztKHV-46" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/question-mark-circle-128.png" vertex="1" parent="1">
+          <mxGeometry x="1270" y="692" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XYrmjyMtkqVw2D4ztKHV-47" value="What is the cost of SM Batch vs. EMR Spark" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1341" y="697" width="148" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
