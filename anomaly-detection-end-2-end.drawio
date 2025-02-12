@@ -184,7 +184,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="U3ho3G2j3TG9YOaSmyrc" name="Page-2">
-    <mxGraphModel dx="2477" dy="2071" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2681" dy="2231" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -371,10 +371,10 @@
           <mxGeometry x="312" y="475" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XYrmjyMtkqVw2D4ztKHV-40" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/question-mark-circle-128.png;imageBackground=none;imageBorder=light-dark(#ca1616, #ededed);" vertex="1" parent="1">
-          <mxGeometry x="24" y="-142" width="40" height="40" as="geometry" />
+          <mxGeometry x="17" y="-54" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XYrmjyMtkqVw2D4ztKHV-41" value="What are the projected daily inference volumes?" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="95" y="-140" width="148" height="30" as="geometry" />
+          <mxGeometry x="69" y="-52" width="148" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XYrmjyMtkqVw2D4ztKHV-42" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/question-mark-circle-128.png;imageBackground=none;imageBorder=light-dark(#ca1616, #ededed);" vertex="1" parent="1">
           <mxGeometry x="1266" y="551" width="40" height="40" as="geometry" />
