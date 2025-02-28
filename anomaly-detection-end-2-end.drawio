@@ -204,7 +204,7 @@
           <mxGeometry x="-16" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h2447i2Zjc8ZmZzIyyJb-6" value="Transform data&lt;div&gt;[Feature Engr. for ML Inference]&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
-          <mxGeometry x="148" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="156" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h2447i2Zjc8ZmZzIyyJb-12" value="Scored&lt;div&gt;Data&lt;div&gt;Store&lt;/div&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="391" y="340" width="70" height="80" as="geometry" />
@@ -213,10 +213,10 @@
           <mxGeometry x="34" y="150" width="40" height="38" as="geometry" />
         </mxCell>
         <mxCell id="vt0tjYcvA5wgolJuAkYE-2" value="2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="196" y="150" width="40" height="38" as="geometry" />
+          <mxGeometry x="204" y="150" width="40" height="38" as="geometry" />
         </mxCell>
         <mxCell id="vt0tjYcvA5wgolJuAkYE-3" value="3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#007CBD;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="385" y="150" width="40" height="38" as="geometry" />
+          <mxGeometry x="378" y="150" width="40" height="38" as="geometry" />
         </mxCell>
         <mxCell id="vt0tjYcvA5wgolJuAkYE-4" value="4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="1090" y="153" width="40" height="38" as="geometry" />
@@ -328,12 +328,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XYrmjyMtkqVw2D4ztKHV-29" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/question-mark-circle-128.png;imageBackground=none;imageBorder=light-dark(#ca1616, #ededed);" parent="1" vertex="1">
-          <mxGeometry x="1266" y="388" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="XYrmjyMtkqVw2D4ztKHV-30" value="How applicable is SageMaker Model Registry for Spark EMR models" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1337" y="390" width="148" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="XYrmjyMtkqVw2D4ztKHV-31" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/question-mark-circle-128.png" parent="1" vertex="1">
           <mxGeometry x="1266" y="442" width="40" height="40" as="geometry" />
         </mxCell>
@@ -353,10 +347,10 @@
           <mxGeometry x="312" y="475" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XYrmjyMtkqVw2D4ztKHV-40" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/question-mark-circle-128.png;imageBackground=none;imageBorder=light-dark(#ca1616, #ededed);" parent="1" vertex="1">
-          <mxGeometry x="17" y="-54" width="40" height="40" as="geometry" />
+          <mxGeometry x="1266" y="332" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XYrmjyMtkqVw2D4ztKHV-41" value="What are the projected daily inference volumes?" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="69" y="-52" width="148" height="30" as="geometry" />
+          <mxGeometry x="1318" y="334" width="148" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XYrmjyMtkqVw2D4ztKHV-42" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/question-mark-circle-128.png;imageBackground=none;imageBorder=light-dark(#ca1616, #ededed);" parent="1" vertex="1">
           <mxGeometry x="1266" y="551" width="40" height="40" as="geometry" />
@@ -380,10 +374,10 @@
           <mxGeometry x="-6" y="28" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_QuNZK3UrFYKO7PGFvwa-3" value="Spark/EMR&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;input: s3 location&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;output: s3 location&lt;/font&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="161" y="28" width="120" height="80" as="geometry" />
+          <mxGeometry x="166" y="28" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JK0KOhezqQ2bOSBz_5XL-3" value="Spark/EMR&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;input: s3 location&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;output: s3 location&lt;/font&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="355" y="23" width="120" height="80" as="geometry" />
+          <mxGeometry x="351" y="26" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JK0KOhezqQ2bOSBz_5XL-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XYrmjyMtkqVw2D4ztKHV-16" target="h2447i2Zjc8ZmZzIyyJb-12">
           <mxGeometry relative="1" as="geometry" />
