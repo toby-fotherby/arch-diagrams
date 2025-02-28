@@ -349,9 +349,6 @@
         <mxCell id="XYrmjyMtkqVw2D4ztKHV-40" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/iconoir-vol-3/24/question-mark-circle-128.png;imageBackground=none;imageBorder=light-dark(#ca1616, #ededed);" parent="1" vertex="1">
           <mxGeometry x="1266" y="332" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JK0KOhezqQ2bOSBz_5XL-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XYrmjyMtkqVw2D4ztKHV-41" target="JK0KOhezqQ2bOSBz_5XL-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="XYrmjyMtkqVw2D4ztKHV-41" value="What are the projected daily inference volumes?" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1318" y="334" width="148" height="30" as="geometry" />
         </mxCell>
@@ -396,9 +393,6 @@
         </mxCell>
         <mxCell id="JK0KOhezqQ2bOSBz_5XL-7" value="Customer says Spark models are&lt;div&gt;proving OK&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="1539" y="614" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JK0KOhezqQ2bOSBz_5XL-11" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="319" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
